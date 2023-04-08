@@ -1,4 +1,3 @@
-<a name="home"></a>
 <style>
 body {background: #FC8EAC;
  }
